@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+//Used to keep camera on player without rotation
 public class CopyPosition : MonoBehaviour
 {
     [SerializeField] Transform transTarget;
