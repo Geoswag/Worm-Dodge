@@ -2,6 +2,8 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+//OLD MOVEMENT, CURRENTLY UNUSED
+
 public class AddPlayerControlledVelocity : MonoBehaviour
 {
     [SerializeField] Vector3 v3Force;
